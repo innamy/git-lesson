@@ -1,4 +1,4 @@
-second file. Commit1
+second file. Commit1. Commit2.
 
 origin
 
